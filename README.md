@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al Rifai</h1>
 <h3 align="center">Medieninformatik Student</h2>
-<h3 align="center">Working Full Stack Webentwickler</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 📫 How to reach me **Ahmadrefai2@gmail.com**
 
